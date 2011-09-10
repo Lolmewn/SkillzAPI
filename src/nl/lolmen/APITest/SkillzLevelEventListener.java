@@ -7,7 +7,7 @@ import org.bukkit.event.CustomEventListener;
 import org.bukkit.event.Event;
 import org.bukkit.event.Listener;
 
-public class SkillzLevelEventListener extends CustomEventListener implements Listener{
+public class SkillzLevelEventListener extends CustomEventListener{
 
 	@SuppressWarnings("unused")
 	private Main plugin;
